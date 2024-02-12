@@ -56,7 +56,7 @@ const router = createRouter({
             component: tailwindPractice,
         },
         {
-            path: "/angvoHome",
+            path: "/",
             name: "home",
             component: homeAngvo,
         },
